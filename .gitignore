@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.env
+passwords.db
+.DS_Store
